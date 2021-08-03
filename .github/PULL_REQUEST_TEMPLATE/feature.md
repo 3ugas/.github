@@ -1,12 +1,15 @@
-# Feature Pull Request
+# Pull Request
 
-### Feature Name:
+### Pull Request Type:
 
-### Feature Ticket ID: 
+- [ ] Feature
+- [ ] Release
+- [ ] Hotfix
 
-### Feature Description:
+### Pull Request Description:
 
-I confirm that:
+
+### I confirm that:
 
 - [ ] Feature requirements have been met
 - [ ] Code structure and design is sound and meets our coding standards
