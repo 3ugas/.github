@@ -14,7 +14,11 @@
 - [ ] **Hotfix**
 
 ### Pull Request Description:
-This should include the aim of the feature, description of changes made and any other notes to aid in review
+This should include the following.
+ - A link to the ClickUp ticket
+ - The aim of the PR 
+ - A description of changes made 
+ - Any other guidance to aid the reviewer
 
 ### I confirm that:
 
