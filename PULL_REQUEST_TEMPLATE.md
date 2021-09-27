@@ -2,7 +2,7 @@
 
 ### Priority
 
-- [ ] **Urgent** - Drop everthing this is a major blocking
+- [ ] **Urgent** - Drop everthing this is a major block
 - [ ] **Important** - I can wait a morning/afternoon
 - [ ] **Soon** - In the next couple of days
 - [ ] **Not urgent** - It's chill, sometime in the next week
