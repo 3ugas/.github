@@ -1,13 +1,20 @@
 # Pull Request
 
+### Priority
+
+- [ ] **Urgent** - Drop everthing this is a major blocking
+- [ ] **Important** - I can wait a morning/afternoon
+- [ ] **Soon** - In the next couple of days
+- [ ] **Not urgent** - It's chill, sometime in the next week
+  
 ### Pull Request Type:
 
-- [ ] Feature
-- [ ] Release
-- [ ] Hotfix
+- [ ] **Feature**
+- [ ] **Release**
+- [ ] **Hotfix**
 
 ### Pull Request Description:
-
+This should include the aim of the feature, description of changes made and any other notes to aid in review
 
 ### I confirm that:
 
